@@ -1,0 +1,22 @@
+1. html带lang属性
+<html lang="en">
+</html>
+
+2. head必须带title子元素
+
+3. HTML实体名称
+HTML4  http://www.w3school.com.cn/tags/html_ref_entities.html
+  如乘号&times;
+   大于&gt;
+   小于&lt;
+   单位度°， &deg;
+   
+4. cite 引用
+
+5. <meta name=“author” content=“”>
+
+
+
+  
+
+
